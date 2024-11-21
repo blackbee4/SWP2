@@ -19,7 +19,7 @@
 #define _DUTY_NEU 2500 // 1500
 #define _DUTY_MIN 1500 // 1000
 
-#define _SERVO_ANGLE_DIFF  30  // Replace with |D - E| degree
+#define _SERVO_ANGLE_DIFF  35  // Replace with |D - E| degree
 #define _SERVO_SPEED       50  // servo speed
 
 #define _BANGBANG_RANGE  1000  // duty up and down for bangbang control
